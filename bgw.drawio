@@ -241,10 +241,10 @@
         <mxCell id="MqRCWIQsL3sCiBY5EVq8-6" value="資料匯入 抓要的變項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-8" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MqRCWIQsL3sCiBY5EVq8-7" value="資料清理 下條件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-7" value="資料清理 下條件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-8" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MqRCWIQsL3sCiBY5EVq8-8" value="描述性統計分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-8" value="描述性統計分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-8" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MqRCWIQsL3sCiBY5EVq8-9" value="模型建立 (模型選擇與建立)迴歸分析 假設檢定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -261,6 +261,39 @@
         </mxCell>
         <mxCell id="MqRCWIQsL3sCiBY5EVq8-13" value="資料準備階段" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=20;position2=1;size=10;position=0.5;" vertex="1" parent="1">
           <mxGeometry x="-130" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MqRCWIQsL3sCiBY5EVq8-15" target="MqRCWIQsL3sCiBY5EVq8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-15" value="選取黑灰白有值的筆數&lt;div&gt;-&amp;gt;n=427&lt;/div&gt;&lt;div&gt;microbiota&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MqRCWIQsL3sCiBY5EVq8-16" target="MqRCWIQsL3sCiBY5EVq8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-16" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;有&lt;/span&gt;收案日記錄&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;筆數&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt;n=423&lt;/div&gt;&lt;div&gt;testdate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MqRCWIQsL3sCiBY5EVq8-17" target="MqRCWIQsL3sCiBY5EVq8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-17" value="&lt;div&gt;刪除收案日在2021/6/30之後的筆數&lt;/div&gt;&lt;div&gt;-&amp;gt;n=377&lt;/div&gt;&lt;div&gt;testdate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MqRCWIQsL3sCiBY5EVq8-25" target="MqRCWIQsL3sCiBY5EVq8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-25" value="&lt;div&gt;刪除&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eGFR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;lt;15的筆數&lt;/div&gt;&lt;div&gt;-&amp;gt;n=377&lt;/div&gt;&lt;div&gt;eGFR_MDRD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MqRCWIQsL3sCiBY5EVq8-27" target="MqRCWIQsL3sCiBY5EVq8-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-27" value="&lt;div&gt;處理&lt;/div&gt;&lt;div&gt;中風(Stroke)&lt;/div&gt;&lt;div&gt;急性心肌梗塞(AMI)&lt;/div&gt;&lt;div&gt;心臟驟停(Cardiac arrest)&lt;/div&gt;&lt;div&gt;心因性休克(Cardiogenic shock)&lt;/div&gt;&lt;div&gt;心臟衰竭(CHF)&lt;/div&gt;&lt;div&gt;透析(Dialysis)&lt;/div&gt;&lt;div&gt;冠狀動脈繞道手術(CABG)&lt;/div&gt;&lt;div&gt;冠狀動脈氣球擴張術(PTCA)&lt;/div&gt;&lt;div&gt;心房顫動(AF)&lt;/div&gt;&lt;div&gt;末期腎臟病(ESRD)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="640" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-29" value="頻率分析" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="860" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
