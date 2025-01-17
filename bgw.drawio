@@ -1,11 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="2215" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ccFABopMqbIgBS7_1jks-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-50" target="ccFABopMqbIgBS7_1jks-59">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ccFABopMqbIgBS7_1jks-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2270" width="590" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-239.99999999999977" y="2170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-61" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccFABopMqbIgBS7_1jks-60">
           <mxGeometry x="-0.2146" relative="1" as="geometry">
@@ -444,14 +449,91 @@
         <mxCell id="ccFABopMqbIgBS7_1jks-47" value="研究目的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-59" value="頻率分析" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="2170" width="80" height="80" as="geometry" />
+        <mxCell id="ccFABopMqbIgBS7_1jks-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2826" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-62" value="設定高血壓相關藥物&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div&gt;設定造影劑相關藥物&lt;/div&gt;DRUG_NO&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="2460" width="160" height="60" as="geometry" />
+          <mxGeometry x="270" y="2586" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="2397" as="sourcePoint" />
+            <mxPoint x="350" y="2586" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="2400" />
+              <mxPoint x="350" y="2400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-63" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;健保資料庫&lt;/span&gt;&lt;/div&gt;&lt;div&gt;OO門診醫令檔&lt;/div&gt;&lt;div&gt;&lt;div&gt;H_NHI_ OPDTO&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="2320" width="130" height="95" as="geometry" />
+          <mxGeometry x="415" y="2276" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-71" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;&quot;&gt;處理單方與複方藥物&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;&quot;&gt;single&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="39" y="2691" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="2471" width="170" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-72" target="ccFABopMqbIgBS7_1jks-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-72" value="計算DDD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="39" y="2601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-75" target="ccFABopMqbIgBS7_1jks-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-75" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;攜入檔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;藥品檔&lt;/div&gt;&lt;div&gt;(...code\Drug\HTN\)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="34" y="2481" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-80" target="ccFABopMqbIgBS7_1jks-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-85" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccFABopMqbIgBS7_1jks-84">
+          <mxGeometry x="-0.6244" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-88" value="01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-89" target="ccFABopMqbIgBS7_1jks-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ccFABopMqbIgBS7_1jks-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="2580" as="targetPoint" />
+            <mxPoint x="-241" y="2230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-241" y="2400" />
+              <mxPoint x="349" y="2400" />
+              <mxPoint x="349" y="2586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-96" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccFABopMqbIgBS7_1jks-95">
+          <mxGeometry x="0.589" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-89" value="BGW" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="2170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-91" value="頻率分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="2170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="ccFABopMqbIgBS7_1jks-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-97" value="BGW1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2830" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ccFABopMqbIgBS7_1jks-98" value="&lt;div&gt;計算Charlson Comorbidity Index (CCI)&lt;/div&gt;(CD、DD檔)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="3010" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
