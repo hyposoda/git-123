@@ -4,15 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MqRCWIQsL3sCiBY5EVq8-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-685" y="1620" width="895" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="2810" width="220" height="295" as="geometry" />
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-30" y="2270" width="590" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-50" edge="1">
+        <mxCell id="ccFABopMqbIgBS7_1jks-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" target="ccFABopMqbIgBS7_1jks-89">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-239.99999999999977" y="2170" as="targetPoint" />
+            <mxPoint x="-239.99999999999977" y="2081" as="targetPoint" />
+            <mxPoint x="-240" y="2021" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-61" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ccFABopMqbIgBS7_1jks-60" vertex="1" connectable="0">
@@ -21,16 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-665" y="1635" width="850" height="475" as="geometry" />
+          <mxGeometry x="-665" y="1635" width="850" height="395" as="geometry" />
         </mxCell>
         <mxCell id="MqRCWIQsL3sCiBY5EVq8-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-970" y="140" width="480" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="MqRCWIQsL3sCiBY5EVq8-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-954" y="899" width="424" height="331" as="geometry" />
-        </mxCell>
-        <mxCell id="MqRCWIQsL3sCiBY5EVq8-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-685" y="1620" width="895" height="640" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="60e70716793133e9-2" target="60e70716793133e9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -431,20 +432,16 @@
         <mxCell id="ccFABopMqbIgBS7_1jks-38" value="選取黑灰白有值的筆數&lt;div&gt;-&amp;gt;n=427&lt;/div&gt;&lt;div&gt;microbiota&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-630" y="1775" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ccFABopMqbIgBS7_1jks-40" target="ccFABopMqbIgBS7_1jks-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ccFABopMqbIgBS7_1jks-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ccFABopMqbIgBS7_1jks-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-565.6666666666667" y="1955" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-40" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;選取有&lt;/span&gt;收案日記錄&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;筆數&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt;n=423&lt;/div&gt;&lt;div&gt;testdate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-626" y="1865" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="1865" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ccFABopMqbIgBS7_1jks-42" target="ccFABopMqbIgBS7_1jks-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-42" value="&lt;div&gt;刪除收案日在2021/6/30之後的筆數&lt;/div&gt;&lt;div&gt;-&amp;gt;n=377&lt;/div&gt;&lt;div&gt;testdate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-626" y="1955" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-44" value="&lt;div&gt;刪除&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eGFR&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;lt;15的筆數&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt;n=377&lt;/div&gt;&lt;div&gt;eGFR_MDRD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-626" y="2045" width="120" height="60" as="geometry" />
+        <mxCell id="ccFABopMqbIgBS7_1jks-44" value="&lt;div&gt;刪除&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eGFR&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;lt;15的筆數&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&amp;gt;n=406&lt;/div&gt;&lt;div&gt;eGFR_MDRD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-626" y="1956" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-47" target="ccFABopMqbIgBS7_1jks-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -452,9 +449,12 @@
         <mxCell id="ccFABopMqbIgBS7_1jks-47" value="研究目的" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccFABopMqbIgBS7_1jks-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ccFABopMqbIgBS7_1jks-62" edge="1">
+        <mxCell id="ccFABopMqbIgBS7_1jks-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ccFABopMqbIgBS7_1jks-62" edge="1" target="ccFABopMqbIgBS7_1jks-97">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="2826" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="2616" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-62" value="設定高血壓相關藥物&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div&gt;設定造影劑相關藥物&lt;/div&gt;DRUG_NO&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -520,14 +520,14 @@
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-96" value="串聯dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ccFABopMqbIgBS7_1jks-95" vertex="1" connectable="0">
           <mxGeometry x="0.589" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="20" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-89" value="BGW" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="2170" width="100" height="50" as="geometry" />
+          <mxGeometry x="-290" y="2080" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ccFABopMqbIgBS7_1jks-91" value="頻率分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="2170" width="100" height="50" as="geometry" />
+          <mxGeometry x="-501" y="2080" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ccFABopMqbIgBS7_1jks-97" target="RrgbvRi4uORZ6m7NdEk9-17">
           <mxGeometry relative="1" as="geometry">
@@ -585,20 +585,20 @@
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-15" value="03" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="569" y="3210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RrgbvRi4uORZ6m7NdEk9-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-17" target="RrgbvRi4uORZ6m7NdEk9-19">
+        <mxCell id="RrgbvRi4uORZ6m7NdEk9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-17" target="RrgbvRi4uORZ6m7NdEk9-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RrgbvRi4uORZ6m7NdEk9-17" value="黑、灰、白分組&lt;div&gt;&lt;div&gt;microbiota：1，2，3&lt;/div&gt;&lt;div&gt;Black_Gray_White：White，Gray，Black&lt;/div&gt;&lt;div&gt;Black：0 (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White，Gray&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gray&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Black_gray：=&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0 (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gray，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Black&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="3260" width="230" height="80" as="geometry" />
+        <mxCell id="RrgbvRi4uORZ6m7NdEk9-17" value="&lt;div style=&quot;&quot;&gt;刪除收案日晚於2021/6/30的筆數&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;testdate&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3325" width="230" height="55" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-19" target="RrgbvRi4uORZ6m7NdEk9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-19" value="設定outcome&lt;br&gt;outcome1：中風+心房顫動+心衰+心肌梗塞+心臟繞道術&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(outcome2：中風+心房顫動+心衰+心肌梗塞+&lt;/span&gt;心臟繞道術&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;腎衰竭+&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;死亡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;outcome3：中風+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome4：中風+心房顫動+心肌梗塞+心臟繞道術+死亡&lt;br&gt;outcome5：中風+心衰+心肌梗塞+心臟繞道術+死亡&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3370" width="410" height="110" as="geometry" />
+          <mxGeometry x="340" y="3563" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-23" value="&lt;div style=&quot;&quot;&gt;填補缺失值為中位數&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;1&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot;&gt;BMI&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 25.325&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;3&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot;&gt;SBP&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 148&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;5&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot;&gt;DBP&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;缺失&lt;/span&gt;&lt;span style=&quot;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填補為 88&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3630" width="158" height="90" as="geometry" />
+          <mxGeometry x="470" y="3739" width="158" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-25" target="RrgbvRi4uORZ6m7NdEk9-27">
           <mxGeometry relative="1" as="geometry" />
@@ -622,7 +622,13 @@
           <mxGeometry x="316" y="4290" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RrgbvRi4uORZ6m7NdEk9-31" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;設定outcome1&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0，1（符合&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;中風、心房顫動、心衰、心肌梗塞、心臟繞道術&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;刪除符合（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心房顫動&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心衰、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;心肌梗塞&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;任何一項的筆數&lt;/span&gt;&lt;/div&gt;&lt;div&gt;變項：&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot;&gt;personal_MI&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;2&quot;&gt;personal_CHF&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;、&lt;/span&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 10.2px; padding: 0.2em 0.4em;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;4&quot;&gt;personal_AF&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="3520" width="345" height="80" as="geometry" />
+          <mxGeometry x="-65" y="3713" width="345" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RrgbvRi4uORZ6m7NdEk9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RrgbvRi4uORZ6m7NdEk9-34" target="RrgbvRi4uORZ6m7NdEk9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RrgbvRi4uORZ6m7NdEk9-34" value="黑、灰、白分組&lt;div&gt;&lt;div&gt;microbiota：1，2，3&lt;/div&gt;&lt;div&gt;Black_Gray_White：White，Gray，Black&lt;/div&gt;&lt;div&gt;Black：0 (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White，Gray&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gray&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Black_gray：=&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;0 (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;White&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)，1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gray，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Black&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3439" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
